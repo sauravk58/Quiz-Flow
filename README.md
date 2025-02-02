@@ -11,6 +11,12 @@ an intuitive and engaging user interface
 ✅ Questions with multiple-choice answers.
 ✅ Show a summary of results upon quiz completion, including total points scored.
 
+video:
+
+
+https://github.com/user-attachments/assets/493084f5-590b-4abf-82eb-6479d4b6b361
+
+
 📦 Installation:
 Prerequisites,
 Install reactjs & nextjs
